@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MaxPandy
-- 👀 I’m interested in music, martial arts and robotics.
 - 🌱 I’m currently studying General Mathematics at Charles University in Prague.
 
 
